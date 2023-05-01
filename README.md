@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quartet4
 - 👀 I’m interested in Salesforce development
-- 🌱 I’m currently learning Git, Github, Apex, LWC, Javascript
+- 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ...
 
